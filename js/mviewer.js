@@ -66,7 +66,7 @@ function showMotions(array) {
 						} else if (len(array[ln]) == 4) {
 							const myMotion = document.createElement('div');
 							myRound.className = "card-body";
-							const myMotion1 = document.createElement('h4');
+							const myMotion1 = document.createElement('h3');
 							myMotion1.className = "card-title px-3 pt-4"
 							myMotion1.textContent = array[ln][3];
 							myMotion.appendChild(myMotion1);
