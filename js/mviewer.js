@@ -35,7 +35,6 @@ function showMotions(array) {
 	var ln = 1;
 	while(ln <= array.length + 3) {
 		
-		console.log("n1: ", len(array[ln]));
 		if (len(array[ln]) <= 1) {
 			break;
 		} else if (len(array[ln]) == 2) {
