@@ -39,7 +39,7 @@ function showMotions(array) {
 			break;
 		} else if (len(array[ln]) == 2) {
 			const myYear = document.createElement('div');
-			myYear.className = "card mx-3 mb-3";
+			myYear.className = "card mb-3";
 			const myYear1 = document.createElement('div');
 			myYear1.className = "card-body";
 			const myYear2 = document.createElement('h3');
@@ -55,7 +55,7 @@ function showMotions(array) {
 					const myRound = document.createElement('div');
 					myRound.className = "card bg-light border";
 					const myRound1 = document.createElement('div');
-					myRound1.className = "card-header"
+					myRound1.className = "card-header border-bottom border-danger"
 					myRound1.textContent = array[ln][2];
 					myRound.appendChild(myRound1);
 					ln++;
