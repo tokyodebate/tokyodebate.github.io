@@ -28,7 +28,7 @@ function len(data) {
 function showMotions(array) {
 	const myArticle = document.createElement('article');
 	const myCup = document.createElement('p');
-	myCup.className = "lead px-3 pt-3"
+	myCup.className = "h2"
 	myCup.textContent = 'Motions for ' + array[0][0];
 	myArticle.appendChild(myCup);
 
@@ -42,7 +42,7 @@ function showMotions(array) {
 			myYear.className = "card mx-3 mb-3";
 			const myYear1 = document.createElement('div');
 			myYear1.className = "card-body";
-			const myYear2 = document.createElement('h4');
+			const myYear2 = document.createElement('h3');
 			myYear2.className = "card-title px-3";
 			myYear2.textContent = array[ln][1];
 			myYear1.appendChild(myYear2);
