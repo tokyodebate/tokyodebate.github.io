@@ -11,6 +11,8 @@ function loadMotions(url) {
 	var results = Papa.parse(url, {
 		download: true,
 		delimiter: "\t",
+		quoteChar: '',
+		escapeChar: '',
 		header: false,
 		skipEmptyLines: 'greedy',
 		complete: completeFn
