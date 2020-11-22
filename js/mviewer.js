@@ -26,6 +26,8 @@ function len(data) {
 }
 
 function showMotions(array) {
+	console.table(array);
+	console.log(array.length);
 	const myArticle = document.createElement('article');
 	const myCup = document.createElement('p');
 	myCup.className = "h2"
@@ -81,16 +83,32 @@ function showMotions(array) {
 									myInfo.textContent = array[ln][4];
 									myMotion.appendChild(myInfo);
 									ln++;
+								} else {
+									console.warn("Parse error at line" + ln);
+									console.warn(array[ln]);
+									ln++;
 								}
 							}
 							myRound.appendChild(myMotion);
+						} else {
+							console.warn("Parse error at line" + ln);
+							console.warn(array[ln]);
+							ln++;
 						}
 					}
 					myYear1.appendChild(myRound);
+				} else {
+					console.warn("Parse error at line" + ln);
+					console.warn(array[ln]);
+					ln++;
 				}
 			}
 			myYear.appendChild(myYear1);
 			myArticle.appendChild(myYear);
+		} else {
+			console.warn("Parse error at line" + ln);
+			console.warn(array[ln]);
+			ln++;
 		}
 			
 	}
