@@ -1,0 +1,2083 @@
+JPDU Spring Tournament
+======================
+
+JPDU Spring Tournament 2021
+---------------------------
+
+R1: Education
+~~~~~~~~~~~~~
+
+THR the narrative that goint to a prestigious university is essential for success.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THR the glamorization of continuous self-improvement(including but not limited to self improvement in academics, sports, arts) in education.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW reduce punlic fundings to universities where menbers of oppressed communities are disproportionately underrepresented as students.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: Development
+~~~~~~~~~~~~~~~
+
+THBT micro-finance organisationslcharities, NGOs, Development Banks) should offer micro-finance loans in developing nations only to women.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Micro-finance refers to longterm loans with little or low interest provided to individuals who seek to start a business.
+
+THBT post colonial states should actively and significantly decentralise state control to local tribes/regional leaders.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT SAPs have done more harm than good.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Structural Adjustment programmes(sAPs) are economic policies for developing countries that have been promoted by the World Bank and international Monetary Fund(IMiF) since the early 1980s by the provision of loans conditional on the adoption of certain policies. Policies usually involve a combination of free-market policies such as privatisation, fiscal austerity, free trade and deregulation.
+
+R3: Media
+~~~~~~~~~
+
+TH prefers social mediale.g. Facebook) to manipulate users’ news feeds in order to promote contents that are opposed to their beliefs.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH welcomes the rise of online news media at the expense of traditional journalism.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT tech companies should continue restricting access to conservative social media platforms(e.g Parler, Rumble, Gab etc.)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R4: Social Justice
+~~~~~~~~~~~~~~~~~~
+
+THS the rise of tokenism in conservative advocacy groups.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   "Tokenism" refers to the practice of recruiting people from underrepresented groups in order to give the appearance of inclusiveness and diversity.
+
+THW make police commanders personally criminally liable for instances of police brutality committed by their subordinates.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT progressive political candidates should not accept large donations from rich donors/corporations.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+QF/High School GF: Art
+~~~~~~~~~~~~~~~~~~~~~~
+
+THR the romanticisation of art that is pursued for non material gain.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THR the trend of artists erasing diplomatically controversial expressions from their works even if the expression is an important element of the art.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban publication and revision of previously unpublished works by dead authors without their prior consent.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SF/Rookie GF: Hypothetical
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TH, as the female Japanese student, would choose to go to Company A rather than Company N.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   You are a female Japanese university student trying to decide between two job offers from Company A and Company N. Company A is a foreign-owned firm that is high-paying extremely prestigious, highly competitive and meritocratic. Company N is a domestic-owned company that is less prestigious and has a lower salary, but is well known'for having a healthy working environment(i.e. less intense working hours, less intense competition etc.) and traditional Japanese corporate values(i.e. seniority wage system, lifetime employment etc.).
+
+THW use the button in their lifetime.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   There is a button that exists only for you. When you press such button, you will be transported back to the time when you were born, with full knowledge of the life you have already lived, and you are the only one who knows you have pushed the button. You can only use this button once.
+
+Assuming only one patient can ride the ambulance, TH, as the ambulance crew, would leave the pedestrian and go to the site of the traffic accident.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   An ambulance is on the way to the site of a traffic accident where one person needs immediate attention, when it hits a pedestrian and badly injures them.
+
+GF: IR
+~~~~~~
+
+THBT Western countries should impose economic sanctions on Myanmar.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Assuming feasibility, THW abolish national caveats in UN peacekeeping operations.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   "National caveats" are restrictions imposed by a country's political decision-makers on how their national armed forces can be used by UN commanders in peacekeeping operations. They dictate operational decisions such as the types of terrain the forces may enter, how far they roam from certain hospitals, and in what weather certain vehicles and weapons may be used.
+
+THBT Africa should pursue closer ties with Chine as opposed to with the West.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+JPDU Spring Tournament 2019
+---------------------------
+
+R1
+~~
+
+TH prefers all scholarship to be granted solely on the basis of financial needs as opposed to merit
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT universities should abolish preferential admission for the wealthy (such as legacy admission, prioritization based on donation)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the academia should disallow researchers to submit theses for a certain period of time(e.g. 2 years) when they submit their theses on predatory journals
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Predatory journals are academic journals that demand high listing fee in exchange for lower reviewing standards of academic papers to be accepted.
+
+R2
+~~
+
+THBT the transgender community should actively seek to separate themselves ( their issues and their collective identity) from the LGBTQ+ community
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the LGBT movement should oppose popular artists “Queerbaiting” with their own sexuality
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Queerbaiting refers to authors, writers, or artists attempting to attract LGBT audiences by suggesting queerness or same-sex relationship between characters. Recently, popular artists such as Ariana Grande have been creating music and music video that suggest their queerness while they have chosen not to discuss their sexuality or have stated they are heterosexual.
+
+THBT professional gaming teams should not hire players who have made sexist remarks
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3
+~~
+
+THW ban expressions that glorify suicide
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT Western states should engage in covert cyber-attacks against infrastructure designed to limit freedom of speech\* in authoritarian states. \*e.g., the Great Firewall of China #### THW impose legal obligations on major online media companies (YouTube, Twitter, Reddit, etc.) to censor the Manosphere. (e.g. blocking accounts, taking down content)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   The Manosphere is a name given to a loose and informal network of websites and blogs where men express opinions about issues concerning contemporary masculinity and male relationships with women, especially those associated with views that are hostile to feminism and women’s rights.
+
+R4
+~~
+
+THBT figureheads of national liberation movement (eg. Aung Sang Suu Kyi, Dalai Lama) should not become politicians after their movement succeeds
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THR the common focus by voters on the ideological consistency of politicians
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THS a two parliament system where one consists of elected representatives and the other consists of experts or individuals with outstanding achievement in their field of study or activity
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie SF
+~~~~~~~~~
+
+THBT parents should not share their children’s photo publicly
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT parents should not teach morality to their underage children through religious context (e.g. “it is a sin to lie”; “help the neighbor” etc.)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT parents should not encourage their children to aspire for a dream which is unlikely to be achieved
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie GF
+~~~~~~~~~
+
+TH regrets the rise of recruitment through employee referral
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW take away the driving license of the elderly
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT doctors should not report to the police when they give medical treatments to illegal drug users
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Pre-QF
+~~~~~~
+
+THW require isolated religious communities to have their children live outside of their communities for a certain period of time (e.g. for one or two years at the age of 15)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW mandate all citizens to purchase attorney fee insurance
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW prohibit the poor and lower middle class from purchasing risk assets
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Risk Assets refers to assets that have a significant degree of price volatility, such as equities, junk bonds, real estates and currencies. It may possibly bring a high return in exchange for high risk.
+
+QF
+~~
+
+THBT Google should not have pulled out of the military contract with the Pentagon
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Google decided last year to end its contract for Project Maven, a project in which Google cooperated with the Pentagon to study on the military use of artificial intelligence and image recognition which could be used to enhance drone strikes in the futureEnd to end encryption refers to technology that prevents anyone including the application developer, the network service provider, or the law enforcement to be able to decode the content of interaction over the network
+
+THW prohibit the end to end encryption of telecommunication
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THR the accelerated competition in the Japanese QR code payment business
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SF
+~~
+
+THW abandon the use of GDP as the standard index to measure a nation’s prosperity
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THS Elizabeth Warren’s proposal to break up large tech companies
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Elizabeth Warren has proposed to break up large tech companies if she is elected president in 2020.
+
+   The plan includes two main steps
+
+   1. Large tech companies that own platforms (such as marketplaces, ad provider, search engines, platforms to connect third parties) must be registered and must be separated from services that participate in that platform.
+
+   2. Mergers by large tech companies that are deemed anti competitive by regulators will be retrospectively broken upSize-based business tax is a form of corporation tax. It levies tax according to corporations’ value added and capital stock even if they don’t make any profit
+
+THW levy size-based business tax instead of corporation tax on profit
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GF
+~~
+
+TH opposes the narrative “Do unto others as you would like them to do unto you”
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW teach children to question and undermine authority
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT all trials should be incorporeal trials
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   An “Incorporeal trial” is a regular criminal/civil trial that abolishes physical hearings. The judge and/or jury will still preside over the case with documents and evidence submitted for the purpose of adjudication and sentencing. However, the lawyers, plaintiff and defendant are not physically present. Cross examination will be conducted via written text or voice recordings, and submitted as such.
+
+35th JPDU Spring Tournament
+---------------------------
+
+.. _r1-1:
+
+R1
+~~
+
+TH, as feminists, opposes classic Disney Films(e.g. Snow White, Cinderella etc.).
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH, as feminists, opposes gaining profit through dating(e.g. Papa katsu, Sugar babies).
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   A Sugar daddy refers to a wealthy older man who gives women lavish or monetary gifts exchange for companionship and sometimes sexual favors. A sugar baby , meanwhile , is normally an attractive younger woman who can’t afford her luxury lifestyle so getting money from sugar daddies.Recently, there has been an increase of sugar daddies. Recently, there has been an increase of sugar babies in Japan and this activity is called papa katsu in Japanese.
+
+THW allow minorities to form exclusive companies that only hire minorities.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _r2-1:
+
+R2
+~~
+
+THW abolish juvenile law.
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT financial punishments should be proportionate to the wealth of offenders.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT criminal sentences should only be based on consequences of the crime, and not intent
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _r3-1:
+
+R3
+~~
+
+THBT museums should return arts to the countries of their origin.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH opposes art criticism.
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Art criticism is the discussion or evaluation of visual art. Art critics usually criticize art. Art critics usually criticize art in the context of aesthetics or the theory of beauty. A goal of art criticism is the pursuit of a rational basis for art appreciation.
+
+THW ban expressions glorifying war heroes.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _r4-1:
+
+R4
+~~
+
+TH opposes the narrative that it is shameful to sing to money.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH supports cross ownership of stocks.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Cross ownerships is when company is when company A owns part of(but sufficient amount of) stocks of company B who in turn owns part of stocks of A. Many Japanese corporations use this strategy in order to get sustainable connection with another corporation. To be independent from the stock market.
+
+TH supports the growth of megacities as a development strategy.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Megacities refer to large cities with population of over 10 million. The largest megacities in the world include Tokyo, New Delhi, San Pailo and Beijing.
+
+Rookie QF
+~~~~~~~~~
+
+THW ban political donation by corporations.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW give the right to vote for immigrants
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT local residents should have the right to veto the state permission for self-driving car experiments.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Self-driving car is on the way of development, it has basic systems however, it is said that in order to improve quality of automation, the car should collect unexpected incidents.
+
+.. _rookie-sf-1:
+
+Rookie SF
+~~~~~~~~~
+
+THBT the countries which militarily intervene in another country should receive a significant number of the people who are harmed in the conflict as refugees.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH opposes tourist embargo as a means against oppressive regime.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT states should hold referenda to approve post-war resolutions.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _rookie-gf-1:
+
+Rookie GF
+~~~~~~~~~
+
+THBT fear should not be used as a means of propagating religion to children
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW remove tax exemption for religious organizations
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH opposes the commodification of religious symbols as a fashion.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+OF
+~~
+
+THW not contact secluded communities in order to impart modern knowledge/technologies.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH prefers the world where political realignment happens frequently.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT members of the parliament should resign when they change/quit the parties they represent during elections
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _qf-1:
+
+QF
+~~
+
+TH, as Government of Indonesia, would abolish sharia law in Aceh.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH, as South Africa, would rejoin and encourage other African nations to remain in/rejoin the International Criminal Court
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH, as the Philippines, would distance itself from the One Belt One Road Project.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _sf-1:
+
+SF
+~~
+
+TH opposes the World Happiness Report.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   The world Happiness Report is an annual publication of the United Nations Sustainable Development Solutions Network which contains rankings of national happiness and analysis of the data from various perspectives. These variables currently include: real GDP per capita, social support, healthy life expectancy, perceptions of corruption.
+
+TH, as feminists, would seek out globally unified feminism rather than localized/ interracial autonomous feminisms.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH prefers the world where human beings look the same.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _gf-1:
+
+GF
+~~
+
+Assuming all jobs can be automated, THW abolish all jobs and grant a basic living for everyone
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Assuming mass surveillance can lead to fully accurate data and law-enforcement agencies are fully able to act on such data, TH welcomes mass surveillance to prevent all crimes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Assuming gene technologies are fully advanced, THBT states should financially sponsor parents to install desirable traits as decided by states on their children.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+34rd JPDU Tournament (2017)
+---------------------------
+
+.. _r1-2:
+
+R1
+~~
+
+In countries with disproportionate internal migration patterns, THW impose immigration cap
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW instill language purity committee which regulates at the grammar or vocabulary of a language
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Academie franchise is the pre-eminent French council for matters pertaining to the French language. The Academie is Frances’s official authority on the usages, vocabulary, and grammar of the French language
+
+THW force production companies to always cast characters of the ethnicity depicted in their source materials
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _r2-2:
+
+R2
+~~
+
+If a neighboring country’s pollution levels are to the extent that it influences the environment condition of your country, THBT it is legitimate to militarily intervene
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW issue a military doctrine ordering soldiers to shoot civilians if they feel like their lives are in danger
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW disallow incentives (such as but not limited to scholarships and job placements) in military recruitment
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _r3-2:
+
+R3
+~~
+
+TH,as a model who would be categorized as a plus sized model, W welcome that categorization
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the gay rights movement should abandon the claim that sexuality is not a choice
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT minority groups should not reclaim slurs that have been directed against them
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _r4-2:
+
+R4
+~~
+
+THW establish life on the paradise planet
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   You and a group of scientist are sent into outer space, on a sub-light speed ship for the mission to resettle Earth after the effects of climate change subsides. Some humans remained on Earth and while human societies survived, civilization did not, returning human activity on Earth to a primitive state. While waiting for climate change to expire, you have ventured around the galaxy, and found an uninhabited paradise planet. Due to the nature sub-light travel, your crew only aged a few years, while a millennia has passed on Earth, and all of your commanders have died. You now have two exclusive choices; to return to Earth and fulfill your mission, or to abandon your mission and establish life on paradise planet.
+
+THW wear their traditional culture’s attire in all business contexts.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   You are an individual from a cultural minority. Through assimilation with the mainstream society, you have been able to become a successful CEO in the international business scene. However, you still personally deeply love your traditional culture.
+
+THW illegally smuggle the Syrian refugees to safety
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   You are a legal immigrant in the EU, leading a quiet life with your family. One day, you find several Syrian refugees washed ashore on the beach. You have the choice to illegally smuggle these Syrian refugees to safety (which will take an indefinite period of time), or turn a blind eye and leave the refugees as they are. If you choose to smuggle these refugees, there is a significant risk, but not guaranteed, of getting caught, for which the punishment is the removal of you and your family’s legal status, imprisonment.
+
+.. _rookie-sf-2:
+
+Rookie SF
+~~~~~~~~~
+
+Julus is a low-level debater, who really loves debating and its culture. One day, Julius suddenly finds that Julius has talent for ping pong that is enough to be called superstar if Julius quits debating and commits to it, but Julis does not really like that sport. TH, as Julius, Would quit debating and start ping pong.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THR the current means of recruiting young first year university students into the university’s debating society
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT all debating activities (including orgcomm) should be conducted in English
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _rookie-gf-2:
+
+Rookie GF
+~~~~~~~~~
+
+THW ban sacrilegious art
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT advanced countries should ban imports of consumer goods made by child labour
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW limit airtime/coverage for terrorist incidents to only reporting of statistics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _of-1:
+
+OF
+~~
+
+THW allow telecommunications companies to sell individual’s browsing data
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ablolish all private schools
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW allow individuals to buy a priority in the waiting list of organ transplant
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Quareter final
+~~~~~~~~~~~~~~
+
+TH, as Abe Administration, Would stop dispatching SDS foreces for PKO
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT UK Government should deprive Asma Assad of her UK citizenship
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Asma Assad is the wife of Bashar Al Assad, the incumbent Syrian president. SHe lives in Syria and actively supports the Regime as FIrrst LAdy(i.e.attending a variety of public events with his husband). SHe is believed to have both UK and Syrian citizenship.
+
+THBT the EU should officially end membership negotiations with Turkey
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _sf-2:
+
+SF
+~~
+
+THBT Nobel Prize should be able to be revoked retrospectively.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the state should sysetematically use subconscious manipulation to nudge citizens towards good choices.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   There is growing evidence from behavial economics that seemingly trivial alterations in the way decisionds are presented can substantially affect choices. FOr instance, printing smiley faces on the electricity bills of low-usage households decreases their future electricity consumption. As another example, consumers presented with a list of financial choices are morelikely to choose items placed near the middle of the list.
+
+THBT it is time to overthrow the ideological/political dominance of Capitalism
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+33rd JPDU Tournament (2016)
+---------------------------
+
+R1: きぎょう
+~~~~~~~~~~~~
+
+THW ban unpaid internships
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW not allow companies to have financial settlements with attacking hackers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW force large companies who leave an area to pay the cost of any resulting structural unemployment
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: せいぎ(まさよし)
+~~~~~~~~~~~~~~~~~~~~
+
+THW decriminalize murder with consent
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT illegally gathered evidence and information should be admissible in criminal trials
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW introduce the jury system
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: うまん
+~~~~~~~~~~
+
+THW ban the photo manipulation of people’s appearance on products and advertisements
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the feminist movement should oppose the development of sexbots
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   sexbot: humanoids with AI that are designed for sexual purposes
+
+THBT the feminist movement should condemn the hook-up culture
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   hook-up culture: a culture which accepts and encourages casual sexual encounters focused on physical pleasure, without necessarily including emotional bonding
+
+R4: いーすとひがしてぃもーる
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THS slum tourism
+^^^^^^^^^^^^^^^^
+
+THBT newly democratised multiethnic states should ban ethnic political parties
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW break up Megacities
+^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   megacity: A metropolitan area with a population above ten million people
+
+Rookie QF: せいじ
+~~~~~~~~~~~~~~~~~
+
+THW allow public servants to express their political views in public
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT politicians should not use sensational rhetoric (e.g. War on Terror, Axis of evil) in public
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW give more votes to the poor
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie SF: えこのみー
+~~~~~~~~~~~~~~~~~~~~~
+
+THBT the state should introduce a basic income system
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Basic Income System
+
+   - Basic Income System provides a set amount of income to every citizen. It is given irrespective of any other income source, your willingness or performance in work.
+
+   - For example, Switzerland is to have a referendum on whether to introduce basic income of 2500 CHF (約30万円) per month to adults and 625 CHF (約7万5千円) to those underage.
+
+   - The budget of this plan is expected to be covered by tax revenue and by cutting part of the current social welfare service.
+
+THBT developing countries should nationalize its natural resourses
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW allow the trade of endangered animals
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie GF: いろいろ
+~~~~~~~~~~~~~~~~~~~
+
+THBT the state should not fund contemporary art
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT handicapped entertainer should refrain from using their disability in a comical or self-deprecating manner to humor the audience
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT environmental activists should never use violence as a strategy to forward their cause
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+OF: こども
+~~~~~~~~~~
+
+THW implement a parenting liscence
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW allow single parents in prison to raise their children behind bars
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT schools should remove all restriction on students’ appearance(e.g. clothes, hairstyle, makeup)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+QF: あいあーる
+~~~~~~~~~~~~~~
+
+THBT the EU should abolish the “Schengen Area”
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Schengen Area: A collective of European nations that have abolished passports and other types of border control at their common borders.
+
+THBT the international community should impose sanctions on tax havens
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW, as China, cease all political and economic support to North Korea
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SF: げんろん
+~~~~~~~~~~~~
+
+THBT political correctness today does more harm than good to social discourse
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT when discussing social justice issues, the identity of a speaker should not be used to limit their participation in discussion or to criticize their points
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW punish those who endorse others not to participate in politics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GF: かがく
+~~~~~~~~~~
+
+THBT nuclear energy policies should not be decided through referenda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW program self-driving cars to always prioritize the safety of its own passengers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the academia has a moral obligation to seek and disprove psuedo-science (e.g. hydrogen water, negative ion)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+31st JPDU Tournament(2015)
+--------------------------
+
+R1: CAはMcKinsey (みなとみらい)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW ban all advertisements of consumer goods and services.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban large corporations from continuing family business/management.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT states should heavily disincentivize foreign corporations from trying M&A of their domestic corporations.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: Democracy
+~~~~~~~~~~~~~
+
+THW introduce blind voting.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Blind Voting: A system in which voters indicate a series of preferences for policies rather than directly selecting a party/candidate. These preferences are then matched to the policies of political parties/candidates. The voter is taken to have voted for the party/candidate that most closely matches their preferences.
+
+TH, as a progressive politician running for an office in a conservative area, would actively tell a lie about his/her political positions in order to get into power.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW grant suffrage to temporary refugees.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: Conflict, しっかり受け取りました(東京工業大学)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT feminist movements should support “Virginity Sales”.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Virginity Sales: Auctions in which people can sell their virginity to the highest bidder.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT feminist/LGBT movements should oppose comedians who use transvestism as a joke.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT publicly recognized lesbians, gays and other sexual minorities whose sexuality changes later to straight should not publicly disclose about it.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R4: Power of Words
+~~~~~~~~~~~~~~~~~~
+
+THBT states should rewrite old but still influential novels/movies/comics etc. to account for political correctness.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Political Correctness: Words or behavior which will not offend any group of people. -ex. “Native American” is the politically corrected words of “Indian”
+
+THW ban media from getting information from freelance journalists and photographers in conflict-affected areas.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT states should fund and publicly display pieces of art which viscerally portrays the suffering of victims created by states politics/actions.(ex. war, poverty)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie QF: もらとりあむうー(´･_･`) #### THW ban too skinny models from showing up in media. #### THW tax meat products. #### THW decide teacher’s salary solely based on their student’s academic performance. ### Rookie SF: 留学行っちゃったら寂しい…3年の春 #### THW give retired parents the right to seek support(including but not limited to financial support) from their adult children. #### THW allow family members to send addicts to rehabilitation. #### THW provide full access to state services to the children of illegal immigrants. ### Rookie GF: Military #### THW not permit soldiers to refuse to participate in military actions or missions on the basis of conscience. #### THBT humanitarian organizations should and should be allowed to give funding, resources or services to illgeal armed groups when this is made a condition for access to vulnerable civilians. #### THBT Japan should acquire nuclear weapons. ### Main OF: 部内恋愛反対(京都大学) #### THW mandate all citizens to purchase liability insurance.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+::
+
+   Liability Insurance: A type of insurance of risk financing that protects the purchaser (the “insured”) from the risks of legal liabilities imposed by lawsuits and similar claims. It covers both legal cost and any legal payouts for which the insured would be responsible if they are sued and held legally liable for something such as malpractice liabilities are typically NOT covered in these types of insurance.
+
+THW force-feed prisoners who are on hunger strike even when they consent to death.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW subject all industrialization projects to approval by the immediately affected local communities.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Main QF: Responsibility
+~~~~~~~~~~~~~~~~~~~~~~~
+
+THW hold schools which don’t provide safe sex education financially liable for unexpected pregnancy by students.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT industrialized nations that emit significant amount of CO2 should accept the proportionate number of climate change refugees based on the amount they emit.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW hold international sporting organizations(FIFA, IOC, etc) liable for the harm to workers that happens in the process of construction.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Main SF: International Relations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT EU should enforce expansionary fiscal policy rather than austerity measures to member states which are in severe economic crisis.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH, as South Africa, opposes the use of the “Apartheid” as an analogy in describing the Israel-Palestine conflict.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT western media outlets should not cover any ISIS actions primarily intended to attract western attention(e.g. Hostage takings/execution)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Main GF
+~~~~~~~
+
+THBT a fetus harmed in a criminal attack should be considered as a victim of crime in its own right.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Assuming that individual’s life span is determined at birth and measurable, THBT states should inform it to citizens regardless of their consent.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH regrets the rising public skepticism towards science.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+29th JPDU Tournament (2014)
+---------------------------
+
+R1: Asia – This is UADC Prep!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT Malaysia should ban private schools based on ethnicity.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH regrets Singapore’s active immigration policy.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT ASEAN should abandon its consensus rule.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: Family – The smallest legal community
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW mandate STD testing before marriage.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW forbid gambling to people with immediate families….
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW allow children to sue their parents for their DQN / kira-kira name (ex. “Pikachu”, “Endless”).
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: Free Speech – Adjudicating expressions worldwide
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT Germany should remove the ban on publishing “MEIN KAMPF”.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the music/art/literary industries should facilitate the comeback of ghostwriters/singers who blow the whistle.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW not read fairytales which contain gender stereotypes to children.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Infoslide for R4
+^^^^^^^^^^^^^^^^
+
+R4: Law and Order – Rectifying outrageous injustice
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW prohibit companies from making out-of-court settlements with anti-social forces (such as gangs)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Companies deal with anti-social forces (such as “Yakuza” in Japan) in many ways. For example, anti-social forces may appear as complainer, or may be in close connection with a trading partner.
+
+   out-of-court settlements: Legal arrangement, initiated and completed outside of the formal judicial process without the involvement of courts and judges.
+
+THBT the police should introduce an affirmative action in order to best represent demographics (such as gender and ethnicity) of that area.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW allow the police to act (ex. warning, prevention measures) regarding the stalker without victim’s consent.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie QF: Basics – BAN, BAN, BAN!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW ban religious street preachers in public.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban price gouging in rural areas.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban child beauty pageants.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie SF: “S” – “S” for Semi Final
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT the feminist movement should support sex strike.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   sex strike: a form of protest in which one or multiple persons refrain from sex with their partner(s) to achieve certain goals. (A form of temporary sexual abstinence).
+
+THW mandate “second opinion” in medical decisions.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW grant suffrage to imperial family.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie GF: Criminalizing Activities – The border of legality and illegality
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT hate speech law should cover the saying of atheists which strongly deny the existence of divine beings.(debated)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW criminalize “revenge pornography” in the same way as rape.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW not euthanize travelers from nations where euthanasia is illegal.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+OF: Burden – Should we put the burden on your shoulders?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT super aging societies should levy more tax on people without children.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT it is legitimate to tax from lands of indigenous people (ex. American Indian Reservation).
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW introduce ACC (Accident Compensation Corporation) scheme in doctor-patient relationship.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   Accident Compensation Corporation (ACC): country’s universal no-fault accidental injury scheme which provides financial compensation and support.
+
+QF: Politics – Who should decide the faith of our land
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT decisions on the legalization, banning, or limiting of substances, including but not limited to narcotics, tobacco and alcohol should be left to panels of experts rather than to elected representatives.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW cap political donation from industries which offer products/services which have high health/life risks/dangers. (such as gun, medicine, tobacco)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW suspend the right of citizens to participate in politics when they are not in education, employment, or training for a certain period.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   In Japan, the classification of “NEET” comprises people aged between 15 and 34 who are unemployed, not engaged in housework, not enrolled in school or work-related training, and not seeking work.
+
+SF: Contemporary International Relations – Around the globe
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW use private military contractors to fight against piracy.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT Obama should significantly decrease the number of nuclear weapons, even without other nations’ concessions.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW make development aid contingent on cutting economical/political tieｓ with Russia.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GF: LGBT – Adjudication Core’s Favorite
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW give tax breaks to corporations which provide services and goods exclusively to LGBT.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the LGBT movement should oppose gay bars that ban entrance to straight customers.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT ICC should prosecute anti-LGBT legislations. (debated)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+27th JPDU Tournament(2013)
+--------------------------
+
+R1: “Company” – The place where you will be imprisoned in a few years time
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW require online gaming companies to compensate the therapy costs of players who become addicted to their online games.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT in times of high unemployment, governments should remove all minimum standard regulations in the labour market.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT appearance is a legitimate criteria for corporations to hire workers.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: “Children” – The most adorable being in the world 🙂
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT child care leave should be admitted to workers who are undergoing infertility treatment.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Assuming that the technology is perfected and is safe, THW allow parents to select and modify their children’s characteristics in any way that they wish (personalities, looks, challenged etc)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban celebrity children
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: “Crime” – What dad told me not to do!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT imprisonment should be mandatory for all white-collar crimes.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW procecute suspected rapists without the formal complaint from the victim.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW charge all those caught driving under the influence of intoxicating substances (such as alcohol and drugs) with attempted murder.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R4: “Moral duty” – Questions we all must face
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW force elected politicians and their family members to only use public education and health services
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT countries with a history of colonialism should open its borders to any migrant from their former colonies
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT Israel should exempt from military duty its citizens who morally oppose the occupation of Palestine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Oct: “Love” – the thing that makes you blind (It is 春Ｔ but we have “Love motion” for you!)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT marriage should not be registered to the state or be legally binding, and remain as a private contract between individuals
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT marriage status should be renewed periodically
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT gay marriages should be left to the courts and not referenda
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+QF: “Politics” – The necessary evil (that is really messed up)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In a state where overwhelming majority of the citizen believe in a particular faith, THW not support secularism
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW prohibit politicians who have been elected once, from running for office ever again
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW prefer a two-party system to a multi-party system.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SF: “Enduring Freedom” – It’s time to liberalise
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+With a condition that only consenting adults can enter, THW create a specific area remote from society, far enough not to cause external problems in which no forms of laws exist, where people are allowed to do anything and everything including serious criminal activity without fear of being prosecuted
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT state should not allow the exisitance of associations whose sole purpose is to discriminate.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT people should have the right to commit suicide.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GF: “Law and Order;” – The principles of our society
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW abolish Impossibility Defense
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+::
+
+   An Impossibility defense is a criminal defense that is used when a defendant is accused of a criminal attempt that he/she commited with the intention to harm and an honest belief that their actions would lead to the intended outcome, yet failed only because the crime was objectively and/or scientifically impossible to commit (Such as trying to poison using sugar or flour, or cursing using a voodoo doll).
+
+   “Criminal defense” means, if admitted, the defendent walks off innocent.
+
+   『It is about 不能犯！！！！　by the person who hates English in adj core（＾ー＾）y=~』
+
+THBT the Japanese Supreme Court should nullify the election based on the disparity between values of votes in different constituencies
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT juries should only include individuals that are from the same socio-economic class as the defendant.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+info slide for GF
+^^^^^^^^^^^^^^^^^
+
+Rookie QF: “FUKUSHU” – Kimitachi Chanto FUKUSHU Shiterukana???(by Takenori Hayashi)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW legalize organ transplants for profit. (From Momiji cup 2012 R1)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban combat sports. (From Umeko cup 2012 R1)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW raise tax on fatty food. (From Wakaba cup 2012 R1)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie SF: “Education” – What my mum taught me 🙂
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW allow teachers unions the right to strike
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT childhood obesity should be treated as child abuse.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW completely abolish teachers license
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie GF: “Meowmeow! bowwow!cocka-a-doodle-doo!” – The others
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW ban the use of animals for military purposes.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW prohibit methods of animal slaughter prescribed by religions that cause prolonged pain to the animal.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW prohibit force feeding and other cruel treatments of animals done to create delicious foods (such as foie gras)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+25th JPDU tournament(2012)
+--------------------------
+
+R1: Innocent Children’s Cute Motions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW allow single fathers/mothers to raise their children behind bars.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT students should bully each other during classes as a part of moral education curriculum.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT liberal democracies should end instilling nationalism on children in compulsory education.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: The Invisible Hand?
+~~~~~~~~~~~~~~~~~~~~~~~
+
+THW nationalize all forms of private banks.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW prohibit discrimination in the labor market on the basis of appearance.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT WTO should impose trade barriers on products/services which were manufactured/provided by workers with excessively low labor standard.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: WHAT’S WRONG WITH BEING LGBT?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT adoption agencies that receive state funding should give priority to same sex couples.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the LGBT community should “out” (reveal to the public that they are LGBT without their consent) celebrities.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW introduce a quota system for LGBT in the national parliament.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R4: Flooded with Blood
+~~~~~~~~~~~~~~~~~~~~~~
+
+THW prohibit military from accepting embedded journalists.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the media should show the full horror of war.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW make aid inversely proportionate to military spending.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Pre Quarter: An Inconvenient Truth
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT United States should nationalize all hospitals.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT United States should make citizens who lost a civil law suit to pay for the opponent’s lawyer cost in all cases.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW abolish gated communities.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+QF: Thank God, I’m Atheist
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT the ICC should prosecute the Pope for crimes against humanity.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW require all religious schools to teach safe sex regardless of parental consent.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT priests should report the confession of serious crimes to the police.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie SF: What’s the Right Thing to Do?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW refuse to extradite suspected criminals to states where they face the death penalty.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT citizens convicted of serious crimes should lose all state benefits.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW introduce racial profiling by the police.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Roookie GF: Asia Now
+~~~~~~~~~~~~~~~~~~~~
+
+THBT China should end its censorship now.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT West should stop all forms of sanctions on Myanmar now.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW allow “unnatural sex” (anal, oral, etc) in Islamic countries.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SF: YOU HAVE NO CHOICE
+~~~~~~~~~~~~~~~~~~~~~~
+
+THW punish citizens who do not take regular medical check-ups.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW increase consumption tax without majority consensus in Japan now.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT democracies should conscript citizens by lottery when facing any prolonged military intervention.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GF: Good Old Days!
+~~~~~~~~~~~~~~~~~~
+
+THBT Japan should abolish nuclear power plants.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban abortion at all stages of pregnancy .
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW prohibit eating meat.
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+23rd JPDU tournament(2011)
+--------------------------
+
+R1: Political issues
+~~~~~~~~~~~~~~~~~~~~
+
+THW introduce a universal basic income.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT cabinet should be dissolved upon reaching an unacceptably low popularity rate.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT political parties should make their pre-election promises binding the breaking of which would trigger immediate election.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _r2-3:
+
+R2
+~~
+
+THW ban pet-owners from applying euthanasia to their pets.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT parents do not have their right to impose a religion on their children.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW legalize political contributions from foreigners.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _r3-3:
+
+R3
+~~
+
+THBT develop status should prioritize the education for the mass over the education for creating elites.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT indigenous people should be given preferential access to education.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW publicize the evaluation of teachers.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _r4-3:
+
+R4
+~~
+
+THW invade Zimbabwe.
+^^^^^^^^^^^^^^^^^^^^
+
+THW ban tax havens.
+^^^^^^^^^^^^^^^^^^^
+
+THBT the advanced states should pay developing states for the use of their genetic resources.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+QF: Justice
+~~~~~~~~~~~
+
+THBT ICC should prosecute for the crimes against the democratic process.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT doctors who take part in illegal abortion should be charged with murder.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban the usage and development of all unmanned military weaponry.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SF: Culture
+~~~~~~~~~~~
+
+THW abolish the registration of World Heritage Sites.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW not contact undiscovered indigenous populations.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban any expression that portrait anti-social behaviors in a bright light.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _gf-2:
+
+GF
+~~
+
+THW help victims of major disasters regardless of the affected country’s consent.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban aid agencies from taking on missionary activities in areas that have suffered disasters.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the state should not pay for the reconstructions of areas prone to repetitive extreme weather disasters.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+21st JPDU tournament (2010)
+---------------------------
+
+R1: Warm Up
+~~~~~~~~~~~
+
+THW allow marijuana for pleasure.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban all forms of gambling.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW legalize euthanasia.
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: Religion
+~~~~~~~~~~~~
+
+THBT the state should require all religious schools to teach safe sex regardless of parental consent.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT aid agencies should not be allowed to undertake missionary activities.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban wearing veils in public.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: Issues in Asia
+~~~~~~~~~~~~~~~~~~
+
+THBT the Thai government should allow criticisms toward the Royal Monarchy.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW abolish copyright laws.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT Japan should possess nuclear weapons.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R4: Sexuality
+~~~~~~~~~~~~~
+
+THW force all corporations to introduce quotas for women in upper management positions.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW create separate units for gays in the military.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW compel HIV infected people to disclose their disease to their sexual partners.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+OF: Terrorism
+~~~~~~~~~~~~~
+
+THW negotiate with terrorists.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW prohibit civilians from entering foreign conflict zones.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW allow terrorists to air their propaganda.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+QF: SNS
+~~~~~~~
+
+THW ban police officers from posing as children on social networking sites to catch pedophiles.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT all social networking sites should limit their services to users over the legal age of adulthood.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the U.S. government should subsidize twitter to liberalize oppressed societies.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SF: United States
+~~~~~~~~~~~~~~~~~
+
+THW ban political contributions made by financial institutions.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the US government should allow its soldiers to openly criticize the government.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the US should not exclude ‘outliers like Iran and North Korea’ in its new nuclear policy.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GF: Medical Ethics
+~~~~~~~~~~~~~~~~~~
+
+THW use financial incentives to increase donations of organs.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW allow minors to undergo abortion without parental consent.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT medical doctors from developing countries should not be allowed to migrate to the developed world.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+18th JPDU Tournament (2009)
+---------------------------
+
+R1: Crime
+~~~~~~~~~
+
+THBT a person who has criminal records should not be permitted to receive any compensation for TV appearance.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW disclose the execution of death row convicts to public.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT entire organization should be punished when one of their members commits a crime.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: Education
+~~~~~~~~~~~~~
+
+THW force students to repeat the same grade until completion of compulsory education.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT scholarship defaulters’ information should not be on the black list of credit agency.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW prohibit children from bringing cell phone to school.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: Peace
+~~~~~~~~~
+
+.. _thbt-japan-should-possess-nuclear-weapons.-1:
+
+THBT Japan should possess nuclear weapons.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT ICC should withdraw the warrant for the arrest of President Omar al-Bashir.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT space development should be managed universally, not individually.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R4: Family
+~~~~~~~~~~
+
+THW criminalize adultery.
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW impose a tax on unmarried person.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW provide wages to housewives and househusbands.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+OF: Politics
+~~~~~~~~~~~~
+
+THW prohibit sons and daughters of politicians from becoming politicians.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW completely abolish company donations to politician.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT politicians should take a qualifying examination before running as a candidate.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+QF: Medical Care
+~~~~~~~~~~~~~~~~
+
+THBT the Japanese government should have the authority to decide doctors’ specialization.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW permit organ transplants at any age.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT cosmetic surgery should be come under the National Health Insurance.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SF: Aguriculture
+~~~~~~~~~~~~~~~~
+
+THW promote the incorporation of agriculture.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT Japanese government should obtain the agricultural land abroad.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW provide funds for those who are starting life as a farmer.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GF: Compensation for the past
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW reform the United Nations Security Council.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the Holocaust denial is acceptable.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW oblige country starting a war to pay for reconstruction.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+15th JPDU Tournament (2008)
+---------------------------
+
+R1: Business and Finance
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW punish governments regarded as tax havens.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW buy dollars.
+^^^^^^^^^^^^^^^^
+
+THW force sovereign wealth funds to disclose information on their investments.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _r2-democracy-1:
+
+R2: Democracy
+~~~~~~~~~~~~~
+
+THBT Japan should abolish the House of Councillors.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT Russia should prohibit government bureaucrats from being board members of companies.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT Turkey should ban religious-based political parties.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: Environment
+~~~~~~~~~~~~~~~
+
+THBT no country should develop natural resources in the Arctic.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW prosecute those who buy products made from endangered species.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban advertising environmentally unfriendly products.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R4: Diversity
+~~~~~~~~~~~~~
+
+THBT Malaysia should abolish affirmative action based on race.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW abolish churches that support polygamy.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW legalize incest.
+^^^^^^^^^^^^^^^^^^^^
+
+QF: Interstate Conflict
+~~~~~~~~~~~~~~~~~~~~~~~
+
+THW militarily remove the oppressive regime in Zimbabwe.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT NATO should include more former USSR countries.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW change the demilitarized zone between North Korea and South Korea into a national park.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SF+Rookie SF: Justice
+~~~~~~~~~~~~~~~~~~~~~
+
+THBT judges should be elected.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW abolish the statute of limitations on crimes.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW deport terrorists even if they would be tortured in their home countries.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie GF: Well-being
+~~~~~~~~~~~~~~~~~~~~~
+
+THW prohibit junk food restaurants near schools.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW prohibit using surrogacy overseas.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT mass media should not encourage people to be thin.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GF: Human Lives
+~~~~~~~~~~~~~~~
+
+THBT China should prioritize economic development over labor protection.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT states should universally provide basic income for all citizens.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW allow violent demonstrations to advocate their cause.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+12th JPDU Tournament (2007)
+---------------------------
+
+R1: Human and Nature
+~~~~~~~~~~~~~~~~~~~~
+
+THW become a vegetarian.
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW end manned space .flight.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW set limit on CO2 emission on company.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: Australia
+~~~~~~~~~~~~~
+
+THBT Australian government should reduce .financial aid to Oceania.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW reserve parliament’s seat for aborigines.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW advocate Australia-Japan Free Trade Agreement.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: Be radical!
+~~~~~~~~~~~~~~~
+
+THBT emperor has lost its meaning.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT there is no such thing as universal human rights.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW introduce a flat tax.
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R4: Law and Order
+~~~~~~~~~~~~~~~~~
+
+THW punish children as if they were adult.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW propose universal prisoners extradition treaty.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT there is no right to possess guns.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+QF: Religion and Education
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT educational establishments should not have religious backgrounds.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW ban face veils in school.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT teachers should tell students .”Thou shalt not commit adultery.”.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SF+Rookie SF: South Korea
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW legalize conscientious objectors in the armed forces.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW individually apologize and compensate comfort women.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT academic background is not important for workers.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie GF: Web culture
+~~~~~~~~~~~~~~~~~~~~~~
+
+THBT government censorship on internet is not justi.able.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW prohibit any kinds of pornography on the Web.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW regulate online game.
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GF: International Organization
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT the United Nation should intervene Somalia.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the World Trade Organization should penalize China for the intellectual property right violation.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT ASEAN should introduce common currency.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+9th JPDU Tournament (2006)
+--------------------------
+
+R1: Environment
+~~~~~~~~~~~~~~~
+
+THW resume whale hunting.
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT developing countries should take responsibilities for environment.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the WTO should restrict trading with countries which engage in environmental destruction.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: Asia
+~~~~~~~~
+
+THBT the resignation of Thaksin Shinawatra is the triumph of democracy.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the Philippines should have a parliamentary system rather than a presidential system.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT ASEAN should suspend its non-intervention policy.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: Subculture
+~~~~~~~~~~~~~~
+
+THBT violent video game is legitimate entertainment.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW restrain children from gangsta rap.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT graffiti is one of the forms of art.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R4: Justice
+~~~~~~~~~~~
+
+THW put the right to know before privacy.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT terrorist suspects are also presumed innocent until proven guilty.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT affirmative action does not promote gender equality.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+QF: Middle East
+~~~~~~~~~~~~~~~
+
+THW restart aid to Hamas government.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT NATO should impose military sanctions against Iran.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW dismantle .security wall. in Israel.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+SF+Rookie SF: Health and Welfare
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THW advocate generic drugs.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW accuse China of selling prisoners’ organs.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT providing health insurance to all the citizens is the duty of a nation.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Rookie GF: Japan
+~~~~~~~~~~~~~~~~
+
+THBT patriotism should not be taught in moral education.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW abolish a term limit of prime Minister.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW take harder action on China over the disputed islands.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GF: Law and Order
+~~~~~~~~~~~~~~~~~
+
+THBT hard policy is better than soft one.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the USA should grant residency to illegal immigrants.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT civil disobedience is not the reason to change government’s policies.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+3rd Asian Preparatory Tournament (2005)
+---------------------------------------
+
+R1: Privacy
+~~~~~~~~~~~
+
+THW establish a DNA database for investigation.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT HIV positive workers should tell their employers of their status.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW protect celebrities’ private life.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: China
+~~~~~~~~~
+
+THW cancel Beijing Olympics.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT Taiwan should declare independence.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT China’s patriot education harms China itself.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: Bioethics
+~~~~~~~~~~~~~
+
+THW save dying patients even if it’s against individual religious beliefs.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT right to choose death is more important than human life.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW customize babies.
+^^^^^^^^^^^^^^^^^^^^^
+
+R4: Society
+~~~~~~~~~~~
+
+THW allow gay marriage with parental authority.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT blogging is the fifth power.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW provide right to vote for criminals.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R5: Asia
+~~~~~~~~
+
+THW welcome casino.
+^^^^^^^^^^^^^^^^^^^
+
+THBT ASEAN should establish Security Council.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT EU should democratize Myanmar.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _sf-3:
+
+SF: ???
+~~~~~~~
+
+THW compensate victims of human trafficking.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW give sex offenders castration.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT human right organization should stop criticizing the custom of circumcision in the third world countries.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. _gf-3:
+
+GF: ???
+~~~~~~~
+
+THW justify preemptive strikes with nuclear weapons.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT pope should actively engage in diplomacy.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT NPT has failed.
+^^^^^^^^^^^^^^^^^^^^
+
+2nd Asian Preparatory Tournament (2004)
+---------------------------------------
+
+R1: Middle East
+~~~~~~~~~~~~~~~
+
+THBT U.S. should postpone its deadline 30th June.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT Israeli government should assassinate more terrorist’s leaders.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT Spain should immediately withdraw their troops from Iraq.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: Multi Media
+~~~~~~~~~~~~~~~
+
+THBT theatrical dramas are more educational than movies.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT EU should allow Microsoft’s unification.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT the Internet brings more good than harm for our children.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: Welfare and health
+~~~~~~~~~~~~~~~~~~~~~~
+
+THW raise the retirement age.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW pay people to have more children.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THW impose tax on fatty foods.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GF: Freedom
+~~~~~~~~~~~
+
+THW impose tax on religious bodies.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT public .figures have no right to private lives.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT Bush administration should constitutionally ban the homosexual marriage.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1st Asian Preparatory Tournament (2003)
+---------------------------------------
+
+R1: South-East Asia
+~~~~~~~~~~~~~~~~~~~
+
+THBT members of ASEAN should reject any cooperation for reconstruction of Iraq.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+TH supports death penalty for drug trafficking.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT notion of Asian Value is a poor excuse.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R2: Make It Humor! (Funny Round)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THBT Doraemon can save the world.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT we should play soccer games with two balls.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT we should clone Mickey Mouse.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+R3: Theory and Reality
+~~~~~~~~~~~~~~~~~~~~~~
+
+THBT globalization marginalizes the poor.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT free trade brings harms rather than benefits for developing countries.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT Asian Free Trade Area is the way to go.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+GF: After the War
+~~~~~~~~~~~~~~~~~
+
+THBT U.S. should take military action on North Korea.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT U.S. should allow U.N. to take a major role in rebuilding Iraq.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+THBT U.S. should get out of the Middle East.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
