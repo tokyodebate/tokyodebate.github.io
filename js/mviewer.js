@@ -1,118 +1,166 @@
-/*
- * Motion Viewer
- *
- * Author: Yifu Liao
- * License: MIT
- * 
- */
 
+
+//既に存在している大量のサイトにそれぞれjQueryのCDNとcssを手作業で追加していくのは現実的ではないのでこのファイル内で読み込む
+//load jQuery
+var script = document.createElement("SCRIPT");
+script.src = "https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js";
+script.type = "text/javascript";
+document.getElementsByTagName("head")[0].appendChild(script);
+
+//load css (もっと良い方法があると思われる、pullするまでこのリンクは無効である)
+var link_style = document.createElement("link");
+link_style.setAttribute("rel", "stylesheet");
+link_style.setAttribute("href", "https://tokyodebate.github.io/css/motion-stats.css"); //
+document.body.appendChild(link_style);
 
 function loadMotions(url) {
-	var results = Papa.parse(url, {
-		download: true,
-		delimiter: "\t",
-		quoteChar: '',
-		escapeChar: '',
-		header: false,
-		skipEmptyLines: 'greedy',
-		complete: completeFn
-	});
-}
-
-function completeFn(results) {
-	showMotions(results.data);
+	if (window.jQuery) {
+		var results = Papa.parse(url, {
+			download: true,
+			delimiter: "\t",
+			quoteChar: "",
+			escapeChar: "",
+			header: false,
+			skipEmptyLines: "greedy",
+			complete: function (results) {
+				showMotions(results.data);
+			},
+		});
+	} else {
+		//if jQuery is not loaded, retry 20ms later
+		window.setTimeout(function () {
+			loadMotions(url);
+		}, 20);
+	}
 }
 
 function len(data) {
-	return (data ? data.length : 0);
+	return data ? data.length : 0;
 }
 
 function showMotions(array) {
-	console.table(array);
-	console.log(array.length);
-	const myArticle = document.createElement('article');
-	const myCup = document.createElement('p');
-	myCup.className = "h2"
-	myCup.textContent = 'Motions for ' + array[0][0];
-	myArticle.appendChild(myCup);
-
-	var ln = 1;
-	while(ln <= array.length + 3) {
-		
-		if (len(array[ln]) <= 1) {
-			break;
-		} else if (len(array[ln]) == 2) {
-			const myYear = document.createElement('div');
-			myYear.className = "card mb-3";
-			const myYear1 = document.createElement('div');
-			myYear1.className = "card-body";
-			const myYear2 = document.createElement('h3');
-			myYear2.className = "card-title px-3";
-			myYear2.textContent = array[ln][1];
-			myYear1.appendChild(myYear2);
-			ln++;
-			while(ln <= array.length + 3) {
-				
-				if (len(array[ln]) <= 2) {
-					break;
-				} else if (len(array[ln]) == 3) {
-					const myRound = document.createElement('div');
-					myRound.className = "card bg-light border";
-					const myRound1 = document.createElement('div');
-					myRound1.className = "card-header border-bottom border-danger"
-					myRound1.textContent = array[ln][2];
-					myRound.appendChild(myRound1);
-					ln++;
-					while(ln <= array.length + 3) {
-						
-						if (len(array[ln]) <= 3) {
-							break;
-						} else if (len(array[ln]) == 4) {
-							const myMotion = document.createElement('div');
-							myRound.className = "card-body";
-							const myMotion1 = document.createElement('h3');
-							myMotion1.className = "card-title px-3 pt-4"
-							myMotion1.textContent = array[ln][3];
-							myMotion.appendChild(myMotion1);
-							ln++;
-							while(ln <= array.length + 3) {
-								
-								if (len(array[ln]) <= 4) {
-									break;
-								} else if (len(array[ln]) == 5) {
-									const myInfo = document.createElement('p');
-									myInfo.className = "card-text mx-3 px-3";
-									myInfo.textContent = array[ln][4];
-									myMotion.appendChild(myInfo);
-									ln++;
-								} else {
-									console.warn("Parse error at line" + ln);
-									console.warn(array[ln]);
-									ln++;
-								}
-							}
-							myRound.appendChild(myMotion);
-						} else {
-							console.warn("Parse error at line" + ln);
-							console.warn(array[ln]);
-							ln++;
-						}
-					}
-					myYear1.appendChild(myRound);
-				} else {
-					console.warn("Parse error at line" + ln);
-					console.warn(array[ln]);
-					ln++;
+	myRoundLabel = $("<p></p>");
+	myMotionsList = [];
+	myTournamentName = "";
+	myArticle = $("<article></article>").appendTo("section");
+	myArticle.append(`<p class="h2">Motions for ${array[0][0]}</p>`);
+	for (var line = 0; line < array.length; line++) {
+		switch (len(array[line])) {
+			case 2: //Tournament
+				myTournamentName = array[line][1];
+				myTournament = $("<div class='card-body'></div>")
+					.appendTo($("<div class='card mb-3'></div>").appendTo(myArticle))
+					.append(`<h3 class="card-title px-3">${myTournamentName}</h3>`);
+				break;
+			case 3: //Round
+				if (myRoundLabel) {
+					//前のラウンドのCopy Buttonを生成する
+					createCopyButton(myMotionsList, myRoundLabel);
 				}
-			}
-			myYear.appendChild(myYear1);
-			myArticle.appendChild(myYear);
-		} else {
-			console.warn("Parse error at line" + ln);
-			console.warn(array[ln]);
-			ln++;
+				myRound = $("<div class='card-body'></div>").appendTo(myTournament);
+				//Copyボタンように[[motion, info], [motion, info], ...]を保存するリスト
+				myMotionsList = [];
+				//後にCopyボタンを追加する対象。css flexboxを利用
+				myRoundLabel = $(
+					`<div class='card-header border-bottom border-danger d-flex justify-content-between align-items-center'>${array[line][2]}</div>`
+				).appendTo(myRound);
+
+				break;
+			case 4: //Motion
+				myMotion = $("<div></div>")
+					.appendTo(myRound)
+					.append(`<h3 class="card-title px-3 pt-4">${array[line][3]}</h3>`);
+				myMotionsList.push([array[line][3], ""]);
+				break;
+			case 5: //Info
+				if (!array[line][4].includes("$stats")) {
+					myMotion.append(
+						$(`<p class="card-text mx-3 px-3">${array[line][4]}</p>`)
+					);
+					myMotionsList[myMotionsList.length - 1][1] += array[line][4] + "\n";
+				} else {
+					//Motion statsの場合、.txtファイルにxx $stats a, b, ...の形式で書かれている
+					showStats(array[line][4], myMotion);
+				}
+			default:
 		}
-			
 	}
-	section.appendChild(myArticle);
+	//次のroundに差し掛かった際にcopy buttonを生成する都合上、最後のラウンドのみ手動で生成する
+	createCopyButton(myMotionsList, myRoundLabel);
+}
+
+//motion statisticsのバーを表示する
+function showStats(text, motion) {
+	textSplit = text.split(/ ?\$stats ?/);
+	stats = textSplit[1].split(/[ |,]+/);
+	myBar = $(`<div class="card-subtitle stats-row px-3 pt-4"></div>`)
+		.append(`<div class="stats-label">${textSplit[0]}</div>`)
+		.appendTo(motion);
+	switch (stats.length) {
+		case 2: //○○ $stats (govの勝ち数), (oppの勝ち数)はNA
+			myBar.append(
+				$(
+					`<div class="stats-container" style="grid-template-columns: ${stats[0]}fr ${stats[1]}fr;">
+						<div class="stats-bar bg-primary text-light">${stats[0]}</div>
+						<div class="stats-bar bg-danger text-light">${stats[1]}</div>
+					</div>`
+				)
+			);
+			break;
+		case 3: //○○ $stats (gov), (opp), (全体)はAsian
+			myBar.append(
+				$(
+					`<div class="stats-container" style="grid-template-columns: ${
+						stats[0]
+					}fr ${stats[1]}fr ${stats[2] - stats[0] - stats[1]}fr;">
+						<div class="stats-bar bg-primary text-light">${stats[0]}</div>
+						<div class="stats-bar bg-danger text-light">${stats[1]}</div>
+						<div class="stats-bar bg-secondary-subtle text-body">${
+							stats[2] - stats[0] - stats[1]
+						}</div>
+					</div>`
+				)
+			);
+			break;
+		case 4: //○○ $stats (1位), (2位), (3位), (4位)はBP
+			myBar.append(
+				$(
+					`<div class="stats-container" style="grid-template-columns: ${stats[0]}fr ${stats[1]}fr ${stats[2]}fr ${stats[3]}fr;">
+						<div class="stats-bar bg-primary text-light">${stats[0]}</div>
+						<div class="stats-bar bg-primary-subtle text-body">${stats[1]}</div>
+						<div class="stats-bar bg-danger-subtle text-body">${stats[2]}</div>
+						<div class="stats-bar bg-danger text-light">${stats[3]}</div>
+					</div>`
+				)
+			);
+			break;
+		default:
+	}
+}
+
+//Copy buttonを作る
+function createCopyButton(myMotionsList, myRoundLabel) {
+	//[motion, info]の組のリストでであるmyMotionsListをコピーするテキストに変換
+	var myText = "";
+	if (myMotionsList.length === 1) {
+		//NA or BP
+		myText = "**Motion**: " + myMotionsList[0][0] + "\n\n";
+		if (myMotionsList[0][1] != "") {
+			myText += "Info: " + myMotionsList[0][1] + "\n";
+		}
+	} else if (myMotionsList.length === 3) {
+		//AsianはMotion/info Aなどと表記
+		for (var i = 0; i < 3; i++) {
+			myText += `**Motion ${["A", "B", "C"][i]}**: ${myMotionsList[i][0]}\n`;
+			if (myMotionsList[i][1] != "") {
+				myText += "Info: " + myMotionsList[i][1] + "\n";
+			}
+		}
+	}
+	myText += "(" + myRoundLabel.text().split(":")[0] + ", " + myTournamentName + ")";
+	$("<button class='btn btn-outline-secondary'>Copy</button>")
+		.appendTo(myRoundLabel)
+		.on("click", function () {
+			navigator.clipboard.writeText(myText);
+		});
 }

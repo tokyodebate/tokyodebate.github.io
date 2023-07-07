@@ -1,0 +1,24 @@
+.stats-row {
+	display: flex;
+	gap: 10px;
+}
+.stats-label {
+	display: inline;
+	width: 15%;
+}
+
+.stats-container {
+	flex-grow: 1;
+	height: 2rem;
+	border-radius: 0.5rem;
+	display: inline-grid;
+	overflow: hidden;
+	margin: 0 0 10px 0;
+}
+
+.stats-bar {
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
