@@ -1,3 +1,5 @@
+
+
 //既に存在している大量のサイトにそれぞれjQueryのCDNとcssを手作業で追加していくのは現実的ではないのでこのファイル内で読み込む
 //load jQuery
 var script = document.createElement("SCRIPT");
@@ -5,10 +7,10 @@ script.src = "https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js";
 script.type = "text/javascript";
 document.getElementsByTagName("head")[0].appendChild(script);
 
-//load css
+//load css (もっと良い方法があると思われる、pullするまでこのリンクは無効である)
 var link_style = document.createElement("link");
 link_style.setAttribute("rel", "stylesheet");
-link_style.setAttribute("href", "../css/motions-stats.css"); //
+link_style.setAttribute("href", "https://tokyodebate.github.io/css/motion-stats.css"); //
 document.body.appendChild(link_style);
 
 function loadMotions(url) {
