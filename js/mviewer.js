@@ -101,8 +101,8 @@ function showStats(text, motion) {
 			myBar.append(
 				$(
 					`<div class="stats-container" style="grid-template-columns: ${stats[0]}fr ${stats[1]}fr;">
-						<div class="stats-bar bg-primary text-light">${stats[0]}</div>
-						<div class="stats-bar bg-danger text-light">${stats[1]}</div>
+						<div class="stats-bar stats-blue">${stats[0]}</div>
+						<div class="stats-bar stats-red">${stats[1]}</div>
 					</div>`
 				)
 			);
@@ -113,9 +113,9 @@ function showStats(text, motion) {
 					`<div class="stats-container" style="grid-template-columns: ${
 						stats[0]
 					}fr ${stats[1]}fr ${stats[2] - stats[0] - stats[1]}fr;">
-						<div class="stats-bar bg-primary text-light">${stats[0]}</div>
-						<div class="stats-bar bg-danger text-light">${stats[1]}</div>
-						<div class="stats-bar bg-secondary-subtle text-body">${
+						<div class="stats-bar stats-blue">${stats[0]}</div>
+						<div class="stats-bar stats-red">${stats[1]}</div>
+						<div class="stats-bar stats-gray">${
 							stats[2] - stats[0] - stats[1]
 						}</div>
 					</div>`
@@ -126,10 +126,10 @@ function showStats(text, motion) {
 			myBar.append(
 				$(
 					`<div class="stats-container" style="grid-template-columns: ${stats[0]}fr ${stats[1]}fr ${stats[2]}fr ${stats[3]}fr;">
-						<div class="stats-bar bg-primary text-light">${stats[0]}</div>
-						<div class="stats-bar bg-primary-subtle text-body">${stats[1]}</div>
-						<div class="stats-bar bg-danger-subtle text-body">${stats[2]}</div>
-						<div class="stats-bar bg-danger text-light">${stats[3]}</div>
+						<div class="stats-bar stats-blue">${stats[0]}</div>
+						<div class="stats-bar stats-blue-light">${stats[1]}</div>
+						<div class="stats-bar stats-red-light">${stats[2]}</div>
+						<div class="stats-bar stats-red">${stats[3]}</div>
 					</div>`
 				)
 			);
