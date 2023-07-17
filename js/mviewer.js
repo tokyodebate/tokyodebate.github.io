@@ -1,5 +1,3 @@
-
-
 //既に存在している大量のサイトにそれぞれjQueryのCDNとcssを手作業で追加していくのは現実的ではないのでこのファイル内で読み込む
 //load jQuery
 var script = document.createElement("SCRIPT");
@@ -10,7 +8,10 @@ document.getElementsByTagName("head")[0].appendChild(script);
 //load css (もっと良い方法があると思われる、pullするまでこのリンクは無効である)
 var link_style = document.createElement("link");
 link_style.setAttribute("rel", "stylesheet");
-link_style.setAttribute("href", "https://tokyodebate.github.io/css/motion-stats.css"); //
+link_style.setAttribute(
+	"href",
+	"https://tokyodebate.github.io/css/motion-stats.css"
+); //
 document.body.appendChild(link_style);
 
 function loadMotions(url) {
@@ -67,7 +68,9 @@ function showMotions(array) {
 
 				break;
 			case 4: //Motion
-				myMotion = $("<div></div>")
+				myMotion = $(
+					"<div style='display: flex; flex-direction: column'></div>"
+				)
 					.appendTo(myRound)
 					.append(`<h3 class="card-title px-3 pt-4">${array[line][3]}</h3>`);
 				myMotionsList.push([array[line][3], ""]);
@@ -115,9 +118,7 @@ function showStats(text, motion) {
 					}fr ${stats[1]}fr ${stats[2] - stats[0] - stats[1]}fr;">
 						<div class="stats-bar stats-blue">${stats[0]}</div>
 						<div class="stats-bar stats-red">${stats[1]}</div>
-						<div class="stats-bar stats-gray">${
-							stats[2] - stats[0] - stats[1]
-						}</div>
+						<div class="stats-bar stats-gray">${stats[2] - stats[0] - stats[1]}</div>
 					</div>`
 				)
 			);
@@ -157,7 +158,8 @@ function createCopyButton(myMotionsList, myRoundLabel) {
 			}
 		}
 	}
-	myText += "(" + myRoundLabel.text().split(":")[0] + ", " + myTournamentName + ")";
+	myText +=
+		"(" + myRoundLabel.text().split(":")[0] + ", " + myTournamentName + ")";
 	$("<button class='btn btn-outline-secondary'>Copy</button>")
 		.appendTo(myRoundLabel)
 		.on("click", function () {
